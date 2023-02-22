@@ -1,3 +1,0 @@
-# github.com/reugn/go-quartz v0.6.0
-## explicit; go 1.18
-github.com/reugn/go-quartz/quartz
